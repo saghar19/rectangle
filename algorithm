@@ -1,0 +1,5 @@
+input=l
+input=w
+Area=A
+A=w*l
+print Area
